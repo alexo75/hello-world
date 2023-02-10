@@ -7,8 +7,10 @@ public class helloworld {
 		System.out.println("Hear ye, hear ye: important annnouncement");
 		System.out.println("Hello Worlde");
 		System.out.println("Hello Alice!");
-		System.out.println("Hey bob!");
+		System.out.println("Hey Bob!");
+		System.out.println("Greetings Charlie!");
 		System.out.println("Fare thee well!");
+		
 
 
 
