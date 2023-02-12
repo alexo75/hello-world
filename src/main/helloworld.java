@@ -4,9 +4,6 @@ import java.util.Date;
 
 public class helloworld {
 	
-	
-//	public class GFG {
-	
 	public static void main(String[] args) {	
         Runtime memCalc = Runtime.getRuntime();
         getDate();
@@ -21,15 +18,11 @@ public class helloworld {
 		System.out.println("Bonjour Ester!");
 		System.out.println("Fare thee well!");
 
-
 	}
 
 private static void getDate() {
 		  {
-		        // Creating object of date class
 		        Date dateAndTime = new Date();
-		 
-		        // Printing the value stored in above object
 		        System.out.println("Current date and time is " + dateAndTime);
 		  }
 	}
